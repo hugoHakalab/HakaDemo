@@ -1,0 +1,15 @@
+com.salesforce.LocaleInfo=us; expires=Sun, 17 Feb 2019 02:55:43 CLST; path=/; domain=.salesforce.com
+autocomplete=1; expires=Sun, 17 Feb 2019 02:55:44 CLST; path=/; domain=.salesforce.com
+disco=0n:00D0n0000000kTA:005i0000000ij3S:0; path=/; domain=.salesforce.com;secure;
+oid=00D0n0000000kTA; expires=Fri, 18 Dec 2020 02:55:44 CLST; path=/; domain=cs67.salesforce.com;secure;
+sid=00D0n0000000kTA!AQkAQGzvJnIXdc7nZQ.u7YJthn9IZdxJZ4191sD5dkyuSuOD7B.vEa2mC341BwzZWwGDX1NxDykXdUP2.CtqhQfrgqXmA_tQ; path=/; domain=cs67.salesforce.com;secure;
+BrowserId=sHbAri8VTiWkS-C7-3azJQ; expires=Sun, 17 Feb 2019 02:55:33 CLST; path=/; domain=.salesforce.com
+oinfo=c3RhdHVzPURFTU8mdHlwZT0yJm9pZD0wMEQwbjAwMDAwMDBrVEE=; expires=Sun, 17 Feb 2019 02:55:43 CLST; path=/; domain=.salesforce.com
+sid_Client=0000000ij3Sn0000000kTA; path=/; domain=cs67.salesforce.com;secure;
+AMCV_8D6C67C25245AF020A490D4C%40AdobeOrg=-1891778711%7CMCIDTS%7C17885%7CMCMID%7C34059342643856038640197279320872930703%7CMCAAMLH-1545846936%7C4%7CMCAAMB-1545846936%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1545249336s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-17892%7CvVersion%7C2.4.0; expires=Sat, 19 Dec 2020 02:55:38 CLST; path=/; domain=.salesforce.com
+webact=%7B%22l_vdays%22%3A-1%2C%22l_visit%22%3A0%2C%22session%22%3A1545242136281%2C%22l_search%22%3A%22%22%2C%22l_dtype%22%3A%22%22%2C%22l_page%22%3A%22SFDC%3Aus%3Alogin%22%2C%22counter%22%3A0%2C%22pv%22%3A1%2C%22f_visit%22%3A1545242136281%2C%22seg%22%3A%22non-customer%3Aus%22%7D; expires=Thu, 19 Dec 2019 02:55:36 CLST; path=/; domain=.salesforce.com
+AMCVS_8D6C67C25245AF020A490D4C%40AdobeOrg=1; path=/; domain=.salesforce.com
+inst=APP_0n; path=/; domain=.salesforce.com
+rememberUn=false; expires=Sun, 17 Feb 2019 02:55:43 CLST; path=/; domain=.salesforce.com
+clientSrc=152.173.139.90; path=/; domain=cs67.salesforce.com;secure;
+sfdc_lv2=KxG83Hp56aBTJBCcrvxBXeTWis55acZJAMKyx8hFo4ozV+qYkZ076wKzs4U4q8s7w=; expires=Fri, 18 Dec 2020 02:56:08 CLST; path=/; domain=.salesforce.com
